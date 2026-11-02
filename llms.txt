@@ -1,0 +1,29 @@
+# 서울 방탈출 프랜차이즈 가이드
+
+> 서울에서 만날 수 있는 방탈출 카페 프랜차이즈 12곳을 지역·테마·수상 이력 기준으로 정리한 비공식 한국어 정보 사이트. 최종 업데이트 2026-11-02.
+
+## 데이터 신뢰도 안내
+- 보도·위키·공식 홈페이지에서 확인된 내용만 기재했고, 확인하지 못한 항목은 '확인 필요'로 표시함.
+- 지점·테마·가격은 수시로 바뀌므로 인용 시 각 브랜드 공식 채널 확인을 권장함.
+- 어떤 브랜드와도 제휴 관계가 없음.
+
+## 주요 페이지
+- [홈](https://escape-seoul.vercel.app/): 브랜드 전체 목록과 FAQ
+- [전체 브랜드](https://escape-seoul.vercel.app/brands.html): 지역별 분류와 비교표
+
+## 브랜드
+- [셜록홈즈](https://escape-seoul.vercel.app/brand/sherlock-holmes.html): 전국구 확장의 대명사, 서울 전역에 촘촘한 매장망. 서울 지역: 대학로, 잠실, 홍대 인근. 확인된 테마 5종.
+- [비트포비아](https://escape-seoul.vercel.app/brand/beat-phobia.html): 완성도 높은 스토리와 인테리어 몰입감으로 유명한 체인. 서울 지역: 홍대, 강남, 명동, 대학로. 확인된 테마 13종.
+- [서울이스케이프룸](https://escape-seoul.vercel.app/brand/seoul-escape-room.html): 국내 최초의 방탈출 카페, 원조 타이틀을 가진 1세대 브랜드. 서울 지역: 홍대. 확인된 테마 2종.
+- [시크릿코드](https://escape-seoul.vercel.app/brand/secret-code.html): 홍대 한복판, 입문자에게 추천되는 1세대 체인. 서울 지역: 홍대. 확인된 테마 2종.
+- [코드이스케이프](https://escape-seoul.vercel.app/brand/code-escape.html): 강남·홍대에서 다양한 스토리 장르를 실험해온 체인. 서울 지역: 강남, 홍대. 확인된 테마 8종.
+- [패닉이스케이프](https://escape-seoul.vercel.app/brand/panic-escape.html): 목동 지역 기반의 스토리형 테마 체인. 서울 지역: 목동. 확인된 테마 5종.
+- [룸익스케이프](https://escape-seoul.vercel.app/brand/room-escape.html): 신촌 전 지점 운영, 10년 가까이 신촌을 지켜온 체인. 서울 지역: 신촌. 확인된 테마 0종.
+- [키이스케이프](https://escape-seoul.vercel.app/brand/key-escape.html): 프리미엄 몰입형 경험을 지향하는 브랜드 확장형 체인. 서울 지역: 지점 위치 확인 필요. 확인된 테마 0종.
+- [넥스트에디션](https://escape-seoul.vercel.app/brand/next-edition.html): '한 편의 영화 같은 방탈출 카페'를 내세운 영화적 연출 브랜드. 서울 지역: 건대. 확인된 테마 1종. 수상: 2025 한국 방탈출 어워즈 '최고의 스릴러/추리/미스터리'·'최고의 입문작' (싱글즈 보도 기준).
+- [단편선](https://escape-seoul.vercel.app/brand/danpyeonseon.html): 테마끼리 세계관을 공유하는 서사 중심의 방탈출 브랜드. 서울 지역: 강남. 확인된 테마 1종. 수상: 2022 한국 방탈출 어워즈 '최고의 추리/미스터리'·'올해의 테마' — 사람들은 그것을 행복이라 부르기로 했다 (싱글즈 보도 기준).
+- [지구별 방탈출](https://escape-seoul.vercel.app/brand/jigubyeol.html): 입문작 수상 이력이 있는 홍대의 모험·SF 계열 브랜드. 서울 지역: 홍대. 확인된 테마 2종. 수상: 2024 한국 방탈출 어워즈 '최고의 입문작' — 라스트코어 (싱글즈 보도 기준).
+- [제로월드](https://escape-seoul.vercel.app/brand/zero-world.html): 공포 테마 퀄리티로 알려진 강남의 방탈출 브랜드. 서울 지역: 강남. 확인된 테마 2종.
+
+## 연락
+- yjw2172@naver.com
